@@ -4,4 +4,5 @@ Mojave changed the `ssh-keygen` command to generate RFC4716-formatted keys by de
 
     ssh-keygen -t rsa -b 4096 -m PEM -C "your-name@example.com"
 
+See https://serverfault.com/questions/939909/ssh-keygen-does-not-create-rsa-private-key for more information.
 
