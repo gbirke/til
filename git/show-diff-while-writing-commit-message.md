@@ -13,3 +13,7 @@ Next time I run into this situation, I will use the `:DiffGitCached`
 command. This will show the diff in a separate Vim window (splitting the
 commit message). I can look up what I need and even use `Ctrl-P` in my
 commit message window for autocompletion!
+
+Tip: Use `Ctrl-WJ` and `Ctrl-WK` to switch between the windows.
+
+Thanks to https://stackoverflow.com/a/26457364/130121
